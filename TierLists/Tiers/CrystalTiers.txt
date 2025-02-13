@@ -20,6 +20,7 @@ LT3
 Lowerable
 sysmint
 SussyTech
+Lariixd
 
 HT4
 DhyeyBG
@@ -30,17 +31,6 @@ smint
 jacovluck
 Stormking_
 Executer
-doc
-doc
-doc
-doc
-doc
-doc
-doc
-doc
-doc
-doc
-doc
 
 LT4
 Clownpierce343
