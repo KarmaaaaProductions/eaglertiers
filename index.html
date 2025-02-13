@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minecraft Tier Lists</title>
+    <style>
+        :root {
+            /* Base colors */
+            --primary-bg: #10161d;
+            --secondary-bg: #121822;
+            --tertiary-bg: #18202a;
+            
+            /* UI Elements */
+            --surface-1: #191f28;
+            --surface-2: #1e2634;
+            
+            /* Text Colors */
+            --text-primary: #c2cee1;
+            --text-secondary: #9fb0c3;
+            --text-muted: #393f49;
+            
+            /* Accent Colors */
+            --accent-light: #869aaf;
+            --accent-medium: #94a3b8;
+            --accent-dark: #64748b;
+            
+            /* Tier Colors */
+            --tier-high: #263244;
+            --tier-low: #161e2a;
+            --tier-hover-high: #3e4f68;
+            --tier-hover-low: #263242;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Geist', system-ui, -apple-system, sans-serif;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+            color: var(--text-primary);
+            line-height: 1.5;
+            background-color: var(--primary-bg);
+            height: 100vh;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .container {
+            max-width: 1200px;
+            width: 100%;
+            margin: 0 auto;
+            padding: 2rem;
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 3rem;
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            font-weight: 700;
+            color: var(--text-primary);
+        }
+
+        .tier-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 1.5rem;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .tier-card {
+            background-color: var(--surface-1);
+            border-radius: 0.75rem;
+            padding: 1.5rem;
+            transition: transform 0.2s, background-color 0.2s;
+            cursor: pointer;
+            text-decoration: none;
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        .tier-card:hover {
+            transform: translateY(-2px);
+            background-color: var(--tier-hover-high);
+        }
+
+        .tier-icon {
+            width: 48px;
+            height: 48px;
+            object-fit: contain;
+        }
+
+        .tier-content {
+            flex: 1;
+        }
+
+        .tier-title {
+            color: var(--text-primary);
+            font-size: 1.25rem;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+        }
+
+        .tier-description {
+            color: var(--text-secondary);
+            font-size: 0.875rem;
+        }
+
+        .footer {
+            position: fixed;
+            bottom: 1rem;
+            right: 1rem;
+            color: var(--text-muted);
+            font-size: 0.875rem;
+        }
+
+        @media (max-width: 768px) {
+            .tier-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <img src="EaglerCraftTiers.png" alt="logo">
+        </header>
+
+        <main>
+            <div class="tier-grid">
+                <a href="TierLists/crystal.html" class="tier-card">
+                    <img src="TierLists/Images/crystal.png" alt="Crystal PvP" class="tier-icon">
+                    <div class="tier-content">
+                        <h2 class="tier-title">Crystal PvP</h2>
+                        <p class="tier-description">End Crystal combat rankings</p>
+                    </div>
+                </a>
+
+
+
+                <a href="TierLists/nethpot.html" class="tier-card">
+                    <img src="TierLists/Images/NetheritePot.png" alt="Nethpot" class="tier-icon">
+                    <div class="tier-content">
+                        <h2 class="tier-title">Netherite Pot</h2>
+                        <p class="tier-description">Netherite combat rankings</p>
+                    </div>
+                </a>
+
+                <a href="TierLists/mace.html" class="tier-card">
+                    <img src="TierLists/Images/mace.png" alt="Mace" class="tier-icon">
+                    <div class="tier-content">
+                        <h2 class="tier-title">Mace PvP</h2>
+                        <p class="tier-description">Mace combat rankings</p>
+                    </div>
+                </a>
+
+                <a href="TierLists/sword.html" class="tier-card">
+                    <img src="TierLists/Images/sword.png" alt="Mace" class="tier-icon">
+                    <div class="tier-content">
+                        <h2 class="tier-title">Sword PvP</h2>
+                        <p class="tier-description">Sword combat rankings</p>
+                    </div>
+                </a>
+            </div>
+        </main>
+    </div>
+
+    <footer class="footer">
+        Made with ❤️ by HalfTheDev
+    </footer>
+</body>
+</html>
