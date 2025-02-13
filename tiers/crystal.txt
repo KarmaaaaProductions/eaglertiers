@@ -1,6 +1,5 @@
 [CRYSTAL]
 HT1
-Karmaa3429
 iiSkinny
 
 
@@ -17,7 +16,6 @@ S8N
 
 LT2
 2Slemon
-DarkNessCIA
 VOP121
 Beeplayin
 
