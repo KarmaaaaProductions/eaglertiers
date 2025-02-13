@@ -1,26 +1,44 @@
 [CRYSTAL]
 HT1
 Karmaa3429
+iiSkinny
+
 
 LT1
 HalfTheDev
 Chubbsge
+Khamgee
+Lieyn 
+Chqppy 
 
 HT2
+Windex
+S8N
 
 LT2
 2Slemon
 DarkNessCIA
 VOP121
+Beeplayin
 
 HT3
 Luvsyawn
 Trith1234_
+2112
 
 LT3
 Lowerable
 sysmint
 SussyTech
+Hellochild1_ALT
+Swimmin
+Lag
+Darv 
+Hooman
+Blxstxff 
+Ninevolt
+Breynoo
+Lil_Timmy
 
 HT4
 DhyeyBG
@@ -31,16 +49,33 @@ smint
 jacovluck
 Stormking_
 Executer
+Itz_Pineapple
+Joeys
+Critical1y
+Iris
+temsai
+Knxl
+Jacob
+Enigma 
+AwesomeDog87
 
 LT4
 Clownpierce343
 AzureX
 W1ther
+Clown_fear
+Pro_Demon
+Django 
+Helloimbad 
+Meta64
+Malicondi
 
 HT5
 boronz_gamer
 TheRealHaydynn
 Shusuke
+Sir Toast
 
 LT5
 j4y
+Rigel
