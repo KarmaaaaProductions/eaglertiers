@@ -2,7 +2,6 @@
 HT1
 
 LT1
-HalfTheDev
 
 HT2
 
