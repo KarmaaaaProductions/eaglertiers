@@ -1,79 +1,45 @@
 [CRYSTAL]
 HT1
-iiSkinny
+Karmaa3429
 
 
 LT1
 HalfTheDev
-Chubbsge
-Khamgee
-Lieyn 
-Chqppy 
+chubbsge
 
 HT2
-Windex
-S8N
+
 
 LT2
-2Slemon
+2slemon
 VOP121
-Beeplayin
+DarkNessCIA
 
 HT3
 Luvsyawn
-Trith1234_
-2112
+Tirth1234_
 
 LT3
-Lowerable
+YeelerYee21
 sysmint
-SussyTech
-Hellochild1_ALT
-Swimmin
-Lag
-Darv 
-Hooman
-Blxstxff 
-Ninevolt
-Breynoo
-DhyeyBG
+sussytech
+Executer
 
 HT4
 Lil_Timmy
 Chubbster79
 bringlose2u
 Malicondi
-smint
 jacovluck
-Stormking_
-Executer
-Itz_Pineapple
-Joeys
-Critical1y
-Iris
-temsai
-Knxl
-Jacob
-Enigma 
-AwesomeDog87
+StormKing_
 
 LT4
 Clownpierce343
 AzureX
 W1ther
-Clown_fear
-Pro_Demon
-Django 
-Helloimbad 
-Meta64
-Malicondi
 
 HT5
-boronz_gamer
 TheRealHaydynn
 Shusuke
-Sir Toast
 
 LT5
-j4y
-Rigel
